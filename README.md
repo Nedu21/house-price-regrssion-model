@@ -83,4 +83,4 @@ This project is open-source and available under the MIT License.
 
 ## 📎 Dataset Acknowledgment
 
-Boston Housing Dataset © UCI/StatLib, redistributed via **Kaggle**, CC0 Public Domain :contentReference[oaicite:2]{index=2}.
+Boston Housing Dataset © UCI/StatLib, redistributed via **Kaggle**
